@@ -1,0 +1,26 @@
+{
+  "name": "env-info",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "bin": {
+    "env-info": "./bin/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wexelus/env-info.git"
+  },
+  "keywords": [
+    "NodeVersion",
+    "NpmVersion",
+    "WindowsVersion",
+    "LinuxVersion",
+    "EnvironmentInformation"
+  ],
+  "author": "Wexelus",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Wexelus/env-info/issues"
+  },
+  "homepage": "https://github.com/Wexelus/env-info#readme"
+}
