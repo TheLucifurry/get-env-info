@@ -1,9 +1,9 @@
 {
   "name": "get-env-info",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Prints to the console information about the version of the operating system, Node and NPM",
   "bin": {
-    "get-env-info": "./bin/index.js"
+    "get-env-info": "./index.js"
   },
   "repository": {
     "type": "git",
