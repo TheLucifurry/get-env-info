@@ -1,14 +1,14 @@
 {
-  "name": "env-info",
+  "name": "get-env-info",
   "version": "1.0.0",
-  "description": "",
+  "description": "Prints to the console information about the version of the operating system, Node and NPM",
   "main": "bin/index.js",
   "bin": {
     "env-info": "./bin/index.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Wexelus/env-info.git"
+    "url": "git+https://github.com/Wexelus/get-env-info.git"
   },
   "keywords": [
     "NodeVersion",
@@ -20,7 +20,7 @@
   "author": "Wexelus",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Wexelus/env-info/issues"
+    "url": "https://github.com/Wexelus/get-env-info/issues"
   },
-  "homepage": "https://github.com/Wexelus/env-info#readme"
+  "homepage": "https://github.com/Wexelus/get-env-info#readme"
 }
