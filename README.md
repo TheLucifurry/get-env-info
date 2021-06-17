@@ -2,5 +2,5 @@
 Prints to the console information about the version of the operating system, Node and NPM
 ## Usage
 ```
-  npx env-info
+  npx get-env-info
 ```
